@@ -4,7 +4,7 @@ This n8n workflow automates the process of receiving an image from Telegram, enh
 
 ---
 
-## 🚀 Features  
+## Features  
 
 - **Telegram Integration**  
   - Users send an image (with an optional caption as prompt).  
